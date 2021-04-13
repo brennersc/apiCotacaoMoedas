@@ -28,5 +28,4 @@
 </br></br></br>
 ## Teste Back-end Mawa Post 2021 #
 
-Criar um painel administrativo para cotaÃ§Ã£o de moedas utilizando [Laravel](https://laravel.com) e blade. No painel deverÃ¡ ser possÃ­vel fazer login e criar novas contas de usuÃ¡rio, alÃ©m de poder realizar cotaÃ§Ãµes da moeda escolhida e salvar o histÃ³rico das cotaÃ§Ãµes realizadas pelo usuÃ¡rio logado.
-Para fazer as cotaÃ§Ãµes utilize a API [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas).
+Criar um painel administrativo para cotação de moedas utilizando [Laravel](https://laravel.com) e blade. No painel deverá ser possível fazer login e criar novas contas de usuário, além de poder realizar cotações da moeda escolhida e salvar o histórico das cotações realizadas pelo usuário logado. Para fazer as cotações utilize a API [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas).
