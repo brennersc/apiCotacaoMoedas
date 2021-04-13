@@ -24,3 +24,29 @@
 6 - Execute as migrations na linha de comando: php artisan migrate </br>
 7 - Inicie a aplicação: php artisan serve </br>
 8 - Acesse http://localhost:8000 </br>
+
+</br></br></br>
+## Teste Back-end Mawa Post 2021 #
+
+Criar um painel administrativo para cotaÃ§Ã£o de moedas utilizando [Laravel](https://laravel.com) e blade. No painel deverÃ¡ ser possÃ­vel fazer login e criar novas contas de usuÃ¡rio, alÃ©m de poder realizar cotaÃ§Ãµes da moeda escolhida e salvar o histÃ³rico das cotaÃ§Ãµes realizadas pelo usuÃ¡rio logado.
+Para fazer as cotaÃ§Ãµes utilize a API [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas).
+
+### O que serÃ¡ avaliado? ###
+
+* EstruturaÃ§Ã£o do cÃ³digo
+* DocumentaÃ§Ã£o
+* Funcionamento correto
+
+### Diferenciais ###
+
+* Docker
+* UX das pÃ¡ginas do painel
+
+### Opcional ###
+Caso preferir, o candidato pode fazer a tarefa na forma de API Rest e utilizar algum framework de front-end, como Vue ou React JS.
+
+### Envio ###
+
+Enviar no e-mail dev@mawapost.com o link do fork do projeto com o assunto "Teste Mawa Back-end 2021 - Nome Candidato"
+
+### Boa sorte! ###
